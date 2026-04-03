@@ -2,7 +2,7 @@
 
 
  ## MVP link -  https://youtu.be/XGyPCo7gzj0   
- _(ML pipeline completely done, Frontend refining is left)_
+** _(ML pipeline completely done, Frontend refining is left, in utmost couple of hours who project will be deployed)_**
 
  
 ### The city that heals itself before it breaks
