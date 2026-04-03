@@ -34,6 +34,7 @@ TIMESTEP_SEC  = 0.5          # twin updates every 500ms
 # RAIN_FLOOD_FACTOR      = 0.012   # mm/hr → water level rise per timestep
 RAIN_FLOOD_FACTOR  = 0.0008   # was 0.012 — way too fast
 # DRAINAGE_DECAY         = 0.008   # natural drainage per timestep
+#changed decay values
 DRAINAGE_DECAY     = 0.0004   # was 0.008 — balance with new rain factor
 TRAFFIC_AQI_FACTOR     = 0.003   # vehicles/capacity → AQI contribution
 WIND_DIFFUSION_ALPHA   = 0.15    # AQI spreads to neighbors at this rate
