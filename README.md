@@ -189,4 +189,4 @@ margdarshak/
 
 ---
 
-*Built at Resonate 2026 · Team Segfault · Ayushman Yashaswi, Dweep Khatki*
+*Built at Resonate-2.0 2026 · Team Segfault · Ayushman Yashaswi, Dweep Khatki*
